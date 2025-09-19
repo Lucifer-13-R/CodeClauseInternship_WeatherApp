@@ -105,9 +105,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Your Name - abhibadiger8152@gmail.com
-```
+Rohit Badiger
 
----
-
-You can customize the author, license, and other details as needed. Let me know if you want me to generate a more detailed or minimal version!
